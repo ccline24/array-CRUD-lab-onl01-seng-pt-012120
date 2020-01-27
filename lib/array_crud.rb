@@ -29,7 +29,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   retrieve_element=["am","not"]
-  retrieve_element.index[0]
+  retrieve_element.index(0)
 end
 
 def retrieve_first_element_from_array(array)
